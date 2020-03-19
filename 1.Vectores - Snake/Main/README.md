@@ -3,7 +3,7 @@
 Para la primera práctica se utilizará el clásico juego de [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)). 
 
 ##### El funcionamiento será sencillo: 
-* La serpiente estará formada por senciones independientes.
+* La serpiente estará formada por secciones independientes.
 * Irá siempre a la localización del ratón.
 * Aparecera los items de alimento aleatoriamente.
 * Cada vez que se coma uno de estos alimentos la serpiente crecerá en una sección.
