@@ -10,9 +10,11 @@
 * __Ejercicio D__ : Simulación de la orbita circular del satélite.
 
 
+-----------------------------------------------------
+
 ### Images: 
 #### Ejercicio A: 
-![Satelite - A - Ruta](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/2.Fuerzas/Sátelite/Main/images/Satelite%20-%20A%20-%20Ruta.png
+![Satelite - A - Ruta](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/2.Fuerzas/Sátelite/Main/images/Satelite%20-%20A%20-%20Ruta.png)
 
 ![Satelite - A - Explote](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/2.Fuerzas/Sátelite/Main/images/Satelite%20-%20A%20-%20Explote.png)
 
