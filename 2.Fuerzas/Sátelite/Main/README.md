@@ -12,6 +12,18 @@
 
 ### Images: 
 #### Ejercicio A: 
-![Satelite - A - Ruta](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/2.Fuerzas/Sátelite/Main/images/Satelite%20-%20A%20-%20Rute.png
+![Satelite - A - Ruta](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/2.Fuerzas/Sátelite/Main/images/Satelite%20-%20A%20-%20Ruta.png
 
 ![Satelite - A - Explote](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/2.Fuerzas/Sátelite/Main/images/Satelite%20-%20A%20-%20Explote.png)
+
+
+#### Ejercicio B: 
+![Satelite - B](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/2.Fuerzas/Sátelite/Main/images/Satelite%20-%20B.png)
+
+
+#### Ejercicio C: 
+![Satelite - C](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/2.Fuerzas/Sátelite/Main/images/Satelite%20-%20C.png)
+
+
+#### Ejercicio D: 
+![Satelite - D](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/2.Fuerzas/Sátelite/Main/images/Satelite%20-%20D.png)
