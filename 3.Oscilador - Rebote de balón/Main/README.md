@@ -1,5 +1,7 @@
 # Oscilador
 
+
+
 1. __Objetos rígidos__.
 
 1. __Objetos elásticos__.
