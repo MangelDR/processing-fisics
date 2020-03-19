@@ -17,6 +17,7 @@ Para la primera práctica se utilizará el clásico juego de [Snake](https://en.
 * Se ha utilizado los ejemplos encontrados en el primer cápitulo de [Natureofcode](www.natureofcode.com).
 
 
+----------------------------------------------
 
 ### Gamplay: 
 #### Playing: 
