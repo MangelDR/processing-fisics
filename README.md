@@ -9,17 +9,11 @@ Como parte de la asignatura de Simulación Física de la Universidad Ramón Llul
  
 ## Contenido 
 
-1. Vectores 
-  1.1 Snake
-
-2. Fuerzas
-  2.1 Sátelite
-  2.2 Tiro Parabólico
-  
-3. Oscilador
-  3.1 Rebote de bañón
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
+1. Vectores
+   1. Snake
+1. Fuerzas
+   1. Sátelite
+   1. Tiro Parabólico
+1. Oscilador
+   1. Rebote de bañón
    1. Item 3b
