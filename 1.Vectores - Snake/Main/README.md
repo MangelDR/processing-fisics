@@ -23,4 +23,4 @@ Para la primera práctica se utilizará el clásico juego de [Snake](https://en.
 ![Snake - Playing](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/1.Vectores%20-%20Snake/Main/gameplay/Snake%20-%20Playing.png)
 
 #### End: 
-![Snake - End](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/1.Vectores%20-%20Snake/Main/gameplay/Snake%20-%20Playing.png)
+![Snake - End](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/1.Vectores%20-%20Snake/Main/gameplay/Snake%20-%20End.png)
