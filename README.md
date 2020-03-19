@@ -15,5 +15,4 @@ Como parte de la asignatura de Simulación Física de la Universidad Ramón Llul
    1. Sátelite
    1. Tiro Parabólico
 1. Oscilador
-   1. Rebote de bañón
-   1. Item 3b
+   1. Rebote de balón
