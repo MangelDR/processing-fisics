@@ -16,7 +16,7 @@ Para la primera práctica se utilizará el clásico juego de [Snake](https://en.
 * Para el texto por pantalla utilizaremos la función [text()](https://processing.org/reference/text_.html).
 * Se ha utilizado los ejemplos encontrados en el primer cápitulo de [Natureofcode](www.natureofcode.com).
 
-##### Gamplay: 
+#### Gamplay: 
 
 ##### Playing: 
 ![Snake - Playing](https://raw.githubusercontent.com/MangelDR/processing-fisics/master/1.Vectores%20-%20Snake/Main/gameplay/Snake%20-%20Playing.png)
