@@ -13,6 +13,6 @@ Para la primera práctica se utilizará el clásico juego de [Snake](https://en.
 #####Consideraciones: 
 * Durante la práctica se debe utilizar la clase PVector. 
 * Habrá que implementar una clase Mover para trabajar con posiciones, velocidades y aceleraciones. 
-* Para el texto por pantalla utilizaremos la función [text()](https://processing.org/reference/text_.html)
-* Se ha utilizado los ejemplos encontrados en el primer cápitulo de [Natureofcode](www.natureofcode.com.
+* Para el texto por pantalla utilizaremos la función [text()](https://processing.org/reference/text_.html).
+* Se ha utilizado los ejemplos encontrados en el primer cápitulo de [Natureofcode](www.natureofcode.com).
 ) 
